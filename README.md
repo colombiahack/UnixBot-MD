@@ -164,7 +164,7 @@ pm2 start index
 cd
 ```
 ```bash
-cd GataBot-MD
+cd UnixBot-MD
 ```
 ```bash
 npm start
