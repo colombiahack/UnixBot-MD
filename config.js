@@ -13,7 +13,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["447700168473", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //Unix𝘽𝙤t-𝙈𝘿 🥷
+["447700168473", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //𝗨𝗻𝗶𝘅𝗕𝗼𝘁-𝗠𝗗 🥷
 ["593968585383"], 
 ["5492266613038"], 
 ["593968263524"],
@@ -170,7 +170,7 @@ global.exito = eg
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 global.wm = "𝗨𝗻𝗶𝘅𝗕𝗼𝘁-𝗠𝗗: REDunix"
 global.igfg = "𝗨𝗻𝗶𝘅𝗕𝗼𝘁-𝗠𝗗"
-global.nomorown = "593993684821"
+global.nomorown = "447828589857"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
