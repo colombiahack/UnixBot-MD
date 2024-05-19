@@ -3,9 +3,9 @@
 </p>
  
 <p align="center">
-<img src="https://i.imgur.com/kd8sus3.jpeg" alt="GataBot-MD" width="800"/>
+<img src="https://i.imgur.com/kd8sus3.jpeg" alt="UnixBot-MD" width="800"/>
   
-> Antes de usar este repositorio, visita la **[Política de GataBot. 😼](https://github.com/GataNina-Li/GataBot-MD/blob/master/terms.md)** 
+> Antes de usar este repositorio, visita la **[Política de UnixBot. 😼](https://github.com/GataNina-Li/GataBot-MD/blob/master/terms.md)** 
 </p>
 
 <p align="center">
