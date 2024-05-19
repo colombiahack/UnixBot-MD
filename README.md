@@ -84,7 +84,7 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - 
 //Ejemplo: git clone https://github.com/GataNina-Li/GataBot-MD.git
 
 209 --> "cd [repositorio]"
-//Ejemplo: cd GataBot-MD
+//Ejemplo: cd UnixBot-MD
 
 //Una vez hecho estos cambios ejecute los nuevos comandos en Termux
 ```
