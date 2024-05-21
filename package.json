@@ -23,10 +23,10 @@
     
 "repository": {
 "type": "git",
-"url": "git+https://github.com/colombiahack/UnixBot-MD.git" },
+"url": "git+https://github.com/GataNina-Li/GataBot-MD.git" },
 
 "bugs": {
-"url": "https://github.com/colombiahack/UnixBot-MD/issues" },
+"url": "https://github.com/GataNina-Li/GataBot-MD/issues",
 "license": "GPL-3.0-or-later",
 "dependencies": {
 "@whiskeysockets/baileys": "^6.7.2",
