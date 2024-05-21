@@ -1,5 +1,5 @@
 {
-"name": "UnixBot-MD",
+"name": "GataBot-MD",
 "version": "1.7.0", 
 "description": "Super Bot WhatsApp",
 "main": "index.js",
@@ -99,4 +99,5 @@
 "devDependencies": {
 "eslint": "^8.45.0",
 "eslint-config-google": "^0.14.0"
-}}
+}
+}
