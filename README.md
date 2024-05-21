@@ -71,7 +71,7 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - 
 // PERSONALIZAR INSTALACIÓN AUTOMÁTICA (En caso de una Bifurcación)
 // Parámetros editables
 
-// REFERENCIA
+// REFERENCIA 
 "wget -O - https://raw.githubusercontent.com/colombiahack/UnixBot-MD/master/gata.sh | bash"
 
 // PARÁMETROS QUE PUEDE SER MODIFICADOS --> "[...]"
